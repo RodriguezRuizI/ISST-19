@@ -51,7 +51,7 @@
 	<input type="email" name="email" placeholder="Email">
 </div>
 
-<div class="pass">
+<div class="user">
 <input type="password" name="password" placeholder="Contraseña"/>
 </div>
  

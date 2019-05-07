@@ -41,7 +41,7 @@
       </div>
 
       <div class="userData">
-      <a href="/LogoutServlet">Salir</a>
+      <a href="LogoutServlet">Salir</a>
       </div> 
     </div>
     
